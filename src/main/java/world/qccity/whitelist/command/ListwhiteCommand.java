@@ -18,7 +18,6 @@ public class ListwhiteCommand extends Command {
             if (strings.length == 0) {
                 commandSender.sendMessage(new TextComponent("Whitelist BungeeCord Plugin " + Whitelist.version));
                 commandSender.sendMessage(new TextComponent("Author : buguwu,doubleQ Continue City Team"));
-                commandSender.sendMessage(new TextComponent("Can only be used in DoubleQ Continue City Server!"));
             }else if (strings.length == 1) {
                 switch (strings[0]) {
                     case "on":
