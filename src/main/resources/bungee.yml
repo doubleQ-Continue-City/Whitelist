@@ -1,4 +1,4 @@
 name: Whitelist
 version: '${version}'
 main: world.qccity.whitelist.Whitelist
-description: Offline server whitelist bungeecord plugin,can only be used in DoubleQ Continue City
+description: server whitelist bungeecord plugin
