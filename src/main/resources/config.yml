@@ -1,0 +1,6 @@
+#是否启用
+enable: false
+#没有白名单玩家断开连接提示
+noWhitelistMessage: You are not whitelisted on this server!
+#可以进行白名单操作的成员 多个id用英文逗号分开
+adminList: Frankie_begonia
